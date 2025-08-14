@@ -20,6 +20,11 @@
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-undertow</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.github.dmitriipisarev</groupId>
+            <artifactId>custom-components</artifactId>
+            <version>1.0.17</version>
+        </dependency>
     </dependencies>
 
     <build>

@@ -13,6 +13,8 @@
     </modules>
 
     <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <compiler-plugin.version>3.14.0</compiler-plugin.version>
         <failsafe-plugin.version>${surefire-plugin.version}</failsafe-plugin.version>
         <maven.compiler.release>17</maven.compiler.release>

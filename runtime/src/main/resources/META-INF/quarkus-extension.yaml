@@ -1,6 +1,12 @@
 name: Camel Custom Servlet
 #description: Do something useful.
 metadata:
+  categories:
+  - "integration"
+  config:
+  - "quarkus.camel.custom.servlet"
+  status:
+  - "stable"
 #  keywords:
 #    - camel-quarkus-custom-servlet
 #  guide: ... # To create and publish this guide, see https://github.com/quarkiverse/quarkiverse/wiki#documenting-your-extension
